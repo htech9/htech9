@@ -46,7 +46,7 @@ always thirsty to learn and improve for a solid and reliable software product.
 ![aws](https://img.shields.io/badge/Aws-orange)
 ![terraform](https://img.shields.io/badge/Terraform-purple)
 ![ansible](https://img.shields.io/badge/Ansible-red)
-![k8](https://img.shields.io/badge/K8-3970e4)
+![k8s](https://img.shields.io/badge/K8s-3970e4)
 ![mysql](https://img.shields.io/badge/Mysql-blue)
 ![mariadb](https://img.shields.io/badge/Mariadb-gray)
 ![pg](https://img.shields.io/badge/Postgresql-blue)
