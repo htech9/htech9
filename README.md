@@ -36,8 +36,10 @@ always thirsty to learn and improve for a solid and reliable software product.
 ![android](https://img.shields.io/badge/Android-green)
 ![spring](https://img.shields.io/badge/Spring-43853D)
 
+<!--
 - Kotlin
 ![android](https://img.shields.io/badge/Android-green)
+-->
 
 - Other platforms / tools:
 
@@ -54,8 +56,8 @@ always thirsty to learn and improve for a solid and reliable software product.
 
 ## 👯 My current activities
 - Working on projects that are outside of github (professional constraint)
-- Updating this readme profile
-- Contributing to small opensource projects
+- Working on personnal projects
+- Contributing to opensource projects
 
 #### 📫 You can reach me on njivarizo.job@gmail.com
 
